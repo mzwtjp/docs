@@ -115,11 +115,11 @@ Bazelでビルドするには、
 をビルドするために必要です。
     現在の推奨は17cで、
     [ここ](https://developer.android.com/ndk/downloads/older_releases.html#ndk-17c-downloads)にあります。
-3.  The Android SDK and build tools may be obtained
-    [here](https://developer.android.com/tools/revisions/build-tools.html), or
-    alternatively as part of
-    [Android Studio](https://developer.android.com/studio/index.html). Build
-    tools API >= 23 is the recommended version for building TensorFlow Lite.
+3.  Android SDKとビルドツールは
+    [ここから](https://developer.android.com/tools/revisions/build-tools.html)または、
+    [Android Studio](https://developer.android.com/studio/index.html)の一部として
+    入手することができます。
+    API >= 23のビルドツールがTensorFlow Liteをビルドする推奨のバージョンです。
 
 #### WORKSPACEと.bazelrcをコンフィグする
 
